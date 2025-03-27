@@ -1,0 +1,132 @@
+.recipe {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    padding: 20px;
+    max-width: 900px;
+    margin: 0 auto;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .recipeHeader {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .recipeHeader h1 {
+    font-size: 2.5rem;
+    color: #4CAF50;
+    margin-bottom: 15px;
+  }
+  
+  .recipeImage {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    max-width: 800px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 15px;
+  }
+  
+  .recipeDetails {
+    margin-top: 30px;
+  }
+  
+  .recipeDetails h3 {
+    font-size: 1.5rem;
+    color: #333;
+    margin-bottom: 15px;
+  }
+  
+  .recipeDetails ul {
+    list-style-type: square;
+    padding-left: 20px;
+  }
+  
+  .recipeDetails ul li {
+    font-size: 1.1rem;
+    margin: 10px 0;
+  }
+  
+  .recipeDetails p {
+    font-size: 1.2rem;
+    line-height: 1.6;
+  }
+  
+  .notFound {
+    text-align: center;
+    padding: 50px 20px;
+  }
+  
+  .notFound h2 {
+    font-size: 2rem;
+    color: #ff6347;
+  }
+  
+  .backButton {
+    display: inline-block;
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .backButton:hover {
+    background-color: #45a049;
+  }
+  
+  /* Media Queries pentru responsive design */
+  
+  @media (max-width: 768px) {
+    .recipeHeader h1 {
+      font-size: 2rem;
+    }
+  
+    .recipeImage {
+      max-width: 100%;
+    }
+  
+    .recipeDetails h3 {
+      font-size: 1.3rem;
+    }
+  
+    .recipeDetails ul li {
+      font-size: 1rem;
+    }
+  
+    .recipeDetails p {
+      font-size: 1rem;
+    }
+  
+    .backButton {
+      padding: 8px 16px;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .recipeHeader h1 {
+      font-size: 1.8rem;
+    }
+  
+    .recipeDetails h3 {
+      font-size: 1.1rem;
+    }
+  
+    .recipeDetails ul li {
+      font-size: 0.9rem;
+    }
+  
+    .recipeDetails p {
+      font-size: 0.9rem;
+    }
+  
+    .backButton {
+      padding: 8px 14px;
+    }
+  }
+  

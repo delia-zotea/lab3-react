@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "title": "Clătite pufoase",
+      "description": "O rețetă simplă de clătite pufoase și delicioase.",
+      "ingredients": ["200g făină", "2 ouă", "300ml lapte", "1 linguriță praf de copt", "1 lingură zahăr", "Un praf de sare"],
+      "instructions": "Amestecați toate ingredientele și prăjiți clătitele într-o tigaie încinsă.",
+      "image": "/images/pancackes.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Paste Carbonara",
+      "description": "O rețetă autentică de paste Carbonara, delicioasă și rapidă.",
+      "ingredients": ["200g spaghete", "100g pancetta", "2 ouă", "50g parmezan", "Piper negru", "Sare"],
+      "instructions": "Fierbeți pastele, gătiți pancetta, amestecați cu ouăle și parmezanul, apoi combinați cu pastele.",
+      "image": "/images/carbonara.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Salată de quinoa cu avocado",
+      "description": "O salată sănătoasă, plină de proteine și nutrienți.",
+      "ingredients": ["200g quinoa", "1 avocado", "100g roșii cherry", "50g brânză feta", "Lămâie", "Ulei de măsline", "Sare", "Piper"],
+      "instructions": "Fierbe quinoa și las-o la răcit. Amestecă cu celelalte ingrediente și adaugă dressing-ul de lămâie și ulei.",
+      "image": "/images/quinoa-salat.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Smoothie de fructe de pădure",
+      "description": "Un smoothie delicios și sănătos pentru un mic dejun rapid.",
+      "ingredients": ["150g fructe de pădure", "1 banană", "200ml iaurt grecesc", "Miere"],
+      "instructions": "Amestecă toate ingredientele într-un blender și servește imediat.",
+      "image": "/images/smoothie.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Supă cremă de legume",
+      "description": "O supă sănătoasă, perfectă pentru o masă ușoară și reconfortantă.",
+      "ingredients": ["2 morcovi", "1 cartof", "1 ceapă", "1 țelină mică", "Ulei de măsline", "Sare", "Piper"],
+      "instructions": "Gătește legumele și blenduiește-le până obții o cremă fină. Servește cu crutoane de pâine.",
+      "image": "/images/soup.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Pui cu legume la cuptor",
+      "description": "Un preparat sănătos și ușor de făcut cu pui și legume la cuptor.",
+      "ingredients": ["4 bucăți de piept de pui", "2 morcovi", "1 dovlecel", "Cartofi", "Ulei de măsline", "Ierburi de Provence"],
+      "instructions": "Condimentează puiul și legumele, pune-le într-o tavă și coace-le la cuptor.",
+      "image": "/images/chicken-veggies.jpg"
+    }
+  ]
+  

@@ -1,0 +1,24 @@
+.navbar {
+    background-color: #ff8c42;
+    padding: 10px 0; /* Reducem padding-ul pentru a-l muta mai sus */
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    border-radius: 8px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 10; /* Asigurăm că header-ul este deasupra conținutului */
+  }
+  
+  .navbar a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  .navbar a:hover {
+    text-decoration: underline;
+  }
+  

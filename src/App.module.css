@@ -1,0 +1,16 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f5f5f5; /* Fundal deschis */
+  color: #333; /* Text închis pentru contrast */
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #ffffff; /* Fundal alb pentru content */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Umbră subtilă pentru adâncire */
+  border-radius: 8px;
+}
